@@ -1,6 +1,6 @@
 //
 //  main.c
-//  bubble zct versiyonu
+//  bubble 
 //
 //  Created by Merve Yanmaz on 14.12.2020.
 //
